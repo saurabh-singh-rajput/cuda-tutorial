@@ -1,4 +1,4 @@
-# CUDA Programming Learning Resource
+# Learning CUDA from scratch
 
 Welcome to the CUDA Programming Learning Resource! This repository is a comprehensive guide for anyone looking to learn CUDA programming from scratch. It contains a single Google Colab notebook that outlines concepts and provides executable code examples to help you grasp the fundamentals of CUDA and parallel computing with NVIDIA GPUs.
 
